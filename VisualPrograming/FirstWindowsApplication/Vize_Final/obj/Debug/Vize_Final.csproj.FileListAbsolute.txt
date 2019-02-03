@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\bin\Debug\Vize_Final.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\bin\Debug\Vize_Final.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\bin\Debug\Vize_Final.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Vize_Final\obj\Debug\Vize_Final.csprojAssemblyReference.cache

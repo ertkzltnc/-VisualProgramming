@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.csprojAssemblyReference.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\bin\Debug\TC_Kimlik_No_Doğrulama.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\bin\Debug\TC_Kimlik_No_Doğrulama.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\bin\Debug\TC_Kimlik_No_Doğrulama.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TC_Kimlik_No_Doğrulama\obj\Debug\TC_Kimlik_No_Doğrulama.pdb

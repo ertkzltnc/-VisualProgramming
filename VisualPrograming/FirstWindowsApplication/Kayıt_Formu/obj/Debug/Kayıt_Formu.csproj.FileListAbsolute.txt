@@ -1,0 +1,20 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csprojAssemblyReference.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.pdb
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe.config
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\bin\Debug\Kayıt_Formu.pdb
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.Form1.resources
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.Properties.Resources.resources
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.exe
+C:\Users\section1\Desktop\FirstWindowsApplication\Kayıt_Formu\obj\Debug\Kayıt_Formu.pdb

@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\bin\Debug\SayiYuvarla.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\bin\Debug\SayiYuvarla.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\bin\Debug\SayiYuvarla.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.Form1.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\SayiYuvarla\SayiYuvarla\obj\Debug\SayiYuvarla.pdb

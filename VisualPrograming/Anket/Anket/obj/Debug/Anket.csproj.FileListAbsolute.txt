@@ -1,0 +1,10 @@
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\bin\Debug\Anket.exe.config
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\bin\Debug\Anket.exe
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\bin\Debug\Anket.pdb
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.csprojAssemblyReference.cache
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.Form1.resources
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.Properties.Resources.resources
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.csproj.GenerateResource.cache
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.csproj.CoreCompileInputs.cache
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.exe
+D:\wissen\uygulamalar\WissenFormUygulamaları\Anket\Anket\obj\Debug\Anket.pdb

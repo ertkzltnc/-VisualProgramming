@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\bin\Debug\DünyaSaatleri.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\bin\Debug\DünyaSaatleri.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\bin\Debug\DünyaSaatleri.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.Form1.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\DünyaSaatleri\DünyaSaatleri\obj\Debug\DünyaSaatleri.csprojAssemblyReference.cache

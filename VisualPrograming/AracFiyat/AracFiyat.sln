@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracFiyat", "AracFiyat\AracFiyat.csproj", "{AB06CFBF-E22E-44A2-B817-C6403CA2DECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB06CFBF-E22E-44A2-B817-C6403CA2DECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB06CFBF-E22E-44A2-B817-C6403CA2DECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB06CFBF-E22E-44A2-B817-C6403CA2DECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB06CFBF-E22E-44A2-B817-C6403CA2DECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B226845D-0418-43CA-A6E7-55C633F3FF66}
+	EndGlobalSection
+EndGlobal

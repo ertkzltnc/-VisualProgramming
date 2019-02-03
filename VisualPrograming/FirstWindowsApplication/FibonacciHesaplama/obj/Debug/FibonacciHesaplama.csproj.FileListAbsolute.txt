@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\bin\Debug\FibonacciHesaplama.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\bin\Debug\FibonacciHesaplama.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\bin\Debug\FibonacciHesaplama.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FibonacciHesaplama\obj\Debug\FibonacciHesaplama.csprojAssemblyReference.cache

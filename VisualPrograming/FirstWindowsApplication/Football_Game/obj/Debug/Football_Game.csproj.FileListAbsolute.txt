@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\bin\Debug\Football_Game.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\bin\Debug\Football_Game.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\bin\Debug\Football_Game.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Football_Game\obj\Debug\Football_Game.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\bin\Debug\BasariTesti.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\bin\Debug\BasariTesti.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\bin\Debug\BasariTesti.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.Form1.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\BasariTesti\BasariTesti\obj\Debug\BasariTesti.pdb

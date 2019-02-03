@@ -1,0 +1,10 @@
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\bin\Debug\MeyveToplama.exe.config
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\bin\Debug\MeyveToplama.exe
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\bin\Debug\MeyveToplama.pdb
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.csprojAssemblyReference.cache
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.Form1.resources
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.Properties.Resources.resources
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.csproj.GenerateResource.cache
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.csproj.CoreCompileInputs.cache
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.exe
+C:\Users\section1\source\repos\MeyveToplama\MeyveToplama\obj\Debug\MeyveToplama.pdb

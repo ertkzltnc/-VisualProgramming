@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\bin\Debug\OkulPuanHesaplama.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\bin\Debug\OkulPuanHesaplama.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\bin\Debug\OkulPuanHesaplama.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.Form1.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\OkulPuanHesaplama\OkulPuanHesaplama\obj\Debug\OkulPuanHesaplama.pdb

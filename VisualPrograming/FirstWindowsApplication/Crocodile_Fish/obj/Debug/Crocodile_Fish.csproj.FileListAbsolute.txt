@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\bin\Debug\Crocodile_Fish.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\bin\Debug\Crocodile_Fish.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\bin\Debug\Crocodile_Fish.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.csprojAssemblyReference.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Crocodile_Fish\obj\Debug\Crocodile_Fish.pdb

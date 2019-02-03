@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\bin\Debug\Bölmeİslemi.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\bin\Debug\Bölmeİslemi.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\bin\Debug\Bölmeİslemi.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.Bölmeİslemi.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\WissenFormUygulamaları\Bölmeİslemi\obj\Debug\Bölmeİslemi.pdb

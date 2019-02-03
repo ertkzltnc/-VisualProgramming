@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\bin\Debug\TavsanKovalamaOyunu.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\bin\Debug\TavsanKovalamaOyunu.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\bin\Debug\TavsanKovalamaOyunu.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.csprojAssemblyReference.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\TavsanKovalamaOyunu\obj\Debug\TavsanKovalamaOyunu.pdb

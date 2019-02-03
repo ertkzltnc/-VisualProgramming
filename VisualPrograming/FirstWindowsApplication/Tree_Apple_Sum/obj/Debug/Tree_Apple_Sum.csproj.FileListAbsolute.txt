@@ -1,0 +1,9 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\bin\Debug\Tree_Apple_Sum.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\bin\Debug\Tree_Apple_Sum.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\bin\Debug\Tree_Apple_Sum.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.Form1.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\Tree_Apple_Sum\obj\Debug\Tree_Apple_Sum.pdb

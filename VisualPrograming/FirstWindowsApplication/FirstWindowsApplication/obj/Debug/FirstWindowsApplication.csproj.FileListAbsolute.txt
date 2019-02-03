@@ -1,0 +1,10 @@
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\bin\Debug\FirstWindowsApplication.exe.config
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\bin\Debug\FirstWindowsApplication.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\bin\Debug\FirstWindowsApplication.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.csprojAssemblyReference.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.Properties.Resources.resources
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.csproj.GenerateResource.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.csproj.CoreCompileInputs.cache
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.exe
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.pdb
+D:\Kursta yaptıklarım\2.hafta\FirstWindowsApplication\FirstWindowsApplication\obj\Debug\FirstWindowsApplication.FrmMain.resources

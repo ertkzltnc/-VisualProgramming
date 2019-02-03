@@ -1,0 +1,10 @@
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\bin\Debug\Trafikİsiklari.exe.config
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\bin\Debug\Trafikİsiklari.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\bin\Debug\Trafikİsiklari.pdb
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.Form1.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.Properties.Resources.resources
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.csproj.GenerateResource.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.exe
+C:\Users\section1\Desktop\Wissen\WissenFormUygulamaları\Trafikİsiklari\Trafikİsiklari\obj\Debug\Trafikİsiklari.pdb
